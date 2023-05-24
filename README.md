@@ -1,7 +1,7 @@
 # Video-Games-Sales-Analysis
 Overview:
 
-The tool loads cleaned video game sales data from a CSV file and presents a dropdown menu of video game titles to the user. Upon selection of a game title, a bar graph dynamically updates to display the sales data of the selected game across different regions (NA_Sales, EU_Sales, JP_Sales, Other_Sales).
+The tool loads cleaned video game sales data from a CSV file and presents a dropdown menu of video game titles to the user. Upon selection of a game title, a bar graph dynamically updates to display the sales data of the selected game across different regions (NA, EU, JP, Other).
 
 How it works:
 
