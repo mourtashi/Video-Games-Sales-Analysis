@@ -13,9 +13,7 @@ How it works:
 
 Libraries Used:
 
-•	pandas: Used for efficient data manipulation and analysis.
-•	plotly.graph_objects: Used for creating interactive plots.
-•	ipywidgets: Used for creating interactive widgets like the dropdown menu.
+•	pandas, plotly.graph_objects, ipywidgets
 
 Usage:
 
