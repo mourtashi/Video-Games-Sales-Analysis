@@ -26,4 +26,4 @@ Usage:
 5.	To analyze another game, simply select another game from the dropdown menu.
 
 With this tool, users can easily explore and analyze video game sales data, making it an invaluable resource for video game analysts, marketers, and enthusiasts alike. Enjoy exploring the fascinating world of video game sales data!
-![image](https://github.com/mourtashi/Video-Games-Sales-Analysis/assets/109982496/b2a60254-9be6-40fc-ad32-168847387742)
+
